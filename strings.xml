@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">FocusBlocker</string>
+    <string name="accessibility_service_label">FocusBlocker Service</string>
+    <string name="accessibility_service_description">Automatically detects and closes Instagram Reels and YouTube Shorts to protect your focus and eliminate doomscrolling.</string>
+    
+    <string name="service_active_title">Protection is Active</string>
+    <string name="service_active_desc">Shorts and Reels are being actively monitored and blocked.</string>
+    <string name="service_inactive_title">Accessibility Disabled</string>
+    <string name="service_inactive_desc">Enable FocusBlocker in Accessibility Settings to start blocking.</string>
+    
+    <string name="btn_enable_service">Enable in Settings</string>
+    <string name="btn_service_settings">Settings Active ✓</string>
+    
+    <string name="title_statistics">Your Time Saved</string>
+    <string name="stat_reels_blocked">Reels Blocked</string>
+    <string name="stat_shorts_blocked">Shorts Blocked</string>
+    <string name="stat_time_saved">Estimated Time Saved</string>
+    <string name="btn_reset_stats">Reset</string>
+    
+    <string name="title_blocking_rules">Target Platforms</string>
+    <string name="toggle_instagram_title">Instagram Reels</string>
+    <string name="toggle_instagram_desc">Detects Clips/Reels screens and forces immediate exit</string>
+    
+    <string name="toggle_youtube_title">YouTube Shorts</string>
+    <string name="toggle_youtube_desc">Closes Shorts player and redirects back to standard feed</string>
+    
+    <string name="title_preferences">Enforcement & Feedback</string>
+    <string name="toggle_toast_title">Show Block Notification</string>
+    <string name="toggle_toast_desc">Displays a brief "🚫 Blocked" message when content is stopped</string>
+    
+    <string name="toggle_strict_title">Strict Home Fallback</string>
+    <string name="toggle_strict_desc">Returns to Home screen if Back button does not escape the player</string>
+
+    <string name="title_battery">Background Reliability</string>
+    <string name="battery_desc">Android may stop accessibility services in low power mode. Exempt FocusBlocker from battery restrictions.</string>
+    <string name="btn_battery_settings">Disable Battery Optimization</string>
+
+    <string name="title_privacy">100% Privacy Guarantee</string>
+    <string name="privacy_desc">FocusBlocker operates entirely on your phone. No internet access, no tracking, and zero personal data stored or transmitted.</string>
+    
+    <string name="toast_yt_blocked">🚫 YouTube Short blocked! Returning to focus…</string>
+    <string name="toast_ig_blocked">🚫 Instagram Reel blocked! Returning to focus…</string>
+
+    <!-- Support / UPI Donation -->
+    <string name="developer_upi_id">7906567954@ptyes</string>
+    <string name="developer_payee_name">FocusBlocker</string>
+    <string name="title_support">🇮🇳 Support the Developer</string>
+    <string name="support_desc">FocusBlocker is 100% free, offline, and open-source with no ads. If it saved your valuable time, consider buying a chai! ☕</string>
+    <string name="label_scan_qr">Or scan QR code with any UPI app:</string>
+    <string name="label_upi_id_display">UPI ID: 7906567954@ptyes (Tap to Copy)</string>
+    <string name="btn_chai_29">☕ Chai (₹29)</string>
+    <string name="btn_coffee_59">🥤 Coffee (₹59)</string>
+    <string name="btn_custom_upi">Open UPI App</string>
+    <string name="toast_upi_copied">UPI ID 7906567954@ptyes copied to clipboard!</string>
+    <string name="toast_no_upi_app">No UPI app found. UPI ID copied to clipboard!</string>
+</resources>

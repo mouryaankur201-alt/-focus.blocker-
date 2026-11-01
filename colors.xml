@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="primary_container">#EEF2FF</color>
+    <color name="on_primary_container">#312E81</color>
+    
+    <color name="secondary">#06B6D4</color>
+    <color name="secondary_container">#ECFEFF</color>
+    
+    <color name="surface">#F8FAFC</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="on_surface">#0F172A</color>
+    <color name="on_surface_muted">#64748B</color>
+    
+    <color name="status_active">#10B981</color>
+    <color name="status_active_container">#ECFDF5</color>
+    <color name="status_inactive">#EF4444</color>
+    <color name="status_inactive_container">#FEF2F2</color>
+
+    <color name="youtube_red">#FF0000</color>
+    <color name="instagram_pink">#E1306C</color>
+    
+    <color name="border_light">#E2E8F0</color>
+    <color name="divider">#F1F5F9</color>
+</resources>

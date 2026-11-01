@@ -1,0 +1,14 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.FocusBlocker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorSecondary">@color/secondary</item>
+        
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/surface</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/surface</item>
+    </style>
+</resources>
